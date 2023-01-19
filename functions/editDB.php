@@ -85,7 +85,7 @@
 
  
    
-  <td><center><input disabled type="text" size ="6" name="CNC1" value="<?php echo $limitconfig[0][0]; ?>" <center> </td>
+  <td><center><input type="text" size ="6" name="CNC1" value="<?php echo $limitconfig[0][0]; ?>" <center> </td>
   <td><center><input type="text" size ="6" name="Tank_Capacity1" value="<?php echo $limitconfig[0][1]; ?>" <center></td>
   <td><center><input type="text" size="6" name='Coolant_Max_LVL1'value="<?php echo $limitconfig[0][2]; ?>" <center> </td>
   <td><center><input type="text" size="6" name='concentration1' value="<?php echo $limitconfig[0][3]; ?>" <center> </td>
@@ -99,7 +99,7 @@
   
   <tr>
 
-  <td><center><input disabled type="text" size="6" name="CNC2" value="<?php echo $limitconfig[1][0]; ?>" <center> </td>
+  <td><center><input type="text" size="6" name="CNC2" value="<?php echo $limitconfig[1][0]; ?>" <center> </td>
   <td><center><input type="text" size="6" name="Tank_Capacity2" value="<?php echo $limitconfig[1][1]; ?>" <center> </td>
   <td><center><input type="text" size="6" name='Coolant_Max_LVL2'value="<?php echo $limitconfig[1][2]; ?>" <center> </td>
   <td><center><input type="text" size="6" name='concentration2' value="<?php echo $limitconfig[1][3]; ?>" <center> </td>

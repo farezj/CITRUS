@@ -29,7 +29,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/CITRUS/config/loginConfig.php';
 <body>
 <div id="Frame0">
     <center>
-  <h1>amazin login page</h1>
+  <h1>login page</h1>
     <center>
 </div>
 <br>
